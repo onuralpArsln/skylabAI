@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Skylab AI — Build faster with your AI copilot</title>
+    <meta name="description" content="Skylab AI helps you ship faster. Join the waitlist and get early access." />
+    <meta property="og:title" content="Skylab AI — Build faster with your AI copilot" />
+    <meta property="og:description" content="Ship faster with Skylab AI. Join the waitlist." />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://skylab.ai/" />
+    <meta property="og:image" content="/logo.svg" />
+    <meta name="theme-color" content="#0b1220" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="preload" href="/styles.css" as="style" />
+    <link rel="stylesheet" href="/styles.css" />
+</head>
+
+<body>
+    <div id="app-loader" class="loader" aria-live="polite">
+        <div class="loader-inner">
+            <div class="ring"></div>
+            <div class="orbit"><span class="dot"></span></div>
+            <div class="label" aria-hidden="true">AI</div>
+        </div>
+    </div>
+    <div class="bg fx-gradient" aria-hidden="true"></div>
+    <div class="bg fx-grid" aria-hidden="true"></div>
+
+    <header class="site-header container">
+        <a class="brand" href="#">
+            <img src="/logo.svg" alt="Skylab AI" height="28" />
+            <span data-i18n="brand">Skylab AI</span>
+        </a>
+        <nav>
+            <a href="#features" data-i18n="nav.features">Features</a>
+            <a href="#cta" data-i18n="nav.access">Get access</a>
+            <a class="btn primary" href="#waitlist" data-i18n="nav.waitlist">Join waitlist</a>
+            <div class="lang-toggle" role="group" aria-label="Language">
+                <button type="button" class="lang-btn" data-lang="en" aria-pressed="false">EN</button>
+                <button type="button" class="lang-btn" data-lang="tr" aria-pressed="false">TR</button>
+            </div>
+        </nav>
+    </header>
+
+    <main>
+        <section class="hero container reveal">
+            <h1 class="hero-title">
+                <span data-i18n="hero.title_pre">Build faster with</span>
+                <span class="grad-text" data-i18n="hero.title_span">your AI copilot</span>
+            </h1>
+            <p class="hero-subtitle" data-i18n="hero.subtitle">
+                We turn ideas into shippable code with delightful UX. Minimal setup, maximum speed.
+            </p>
+            <div class="cta-row">
+                <a id="cta-btn" class="btn primary large" href="#waitlist" data-i18n="hero.cta_primary">Join the
+                    waitlist</a>
+                <a class="btn ghost" href="#features" data-i18n="hero.cta_secondary">See features</a>
+            </div>
+        </section>
+
+        <section id="features" class="features container reveal">
+            <div class="feature-card tilt">
+                <h3 data-i18n="features.instant_title">Instant Scaffolds</h3>
+                <p data-i18n="features.instant_desc">Spin up apps with best practices, opinions optional. Batteries
+                    included.</p>
+            </div>
+            <div class="feature-card tilt">
+                <h3 data-i18n="features.code_title">Code You Can Keep</h3>
+                <p data-i18n="features.code_desc">Readable, typed, and maintainable. You own the output.</p>
+            </div>
+            <div class="feature-card tilt">
+                <h3 data-i18n="features.preview_title">Live Preview</h3>
+                <p data-i18n="features.preview_desc">Iterate in real-time with smooth, zero-reload animations.</p>
+            </div>
+        </section>
+
+        <section id="cta" class="cta container reveal">
+            <h2 data-i18n="cta.title">Ready to move faster?</h2>
+            <p data-i18n="cta.subtitle">Be the first to try Skylab AI. No spam, just early access.</p>
+            <a class="btn primary large" href="#waitlist" data-i18n="cta.button">Join the waitlist</a>
+        </section>
+
+        <section id="waitlist" class="waitlist container reveal">
+            <form class="waitlist-form" action="https://example.com/api/waitlist" method="post"
+                onsubmit="return false;">
+                <input type="email" name="email" placeholder="you@company.com" aria-label="Email" required
+                    data-i18n="waitlist.placeholder" data-i18n-attr="placeholder" />
+                <button type="submit" class="btn primary" data-i18n="waitlist.button">Notify me</button>
+            </form>
+            <p class="small" data-i18n="waitlist.disclaimer">We’ll only use your email to let you know when we launch.
+            </p>
+        </section>
+    </main>
+
+    <footer class="site-footer container">
+        <span>© <span id="year"></span> <span data-i18n="brand">Skylab AI</span></span>
+        <a href="#" data-i18n="footer.privacy">Privacy</a>
+        <a href="#" data-i18n="footer.terms">Terms</a>
+    </footer>
+
+    <script defer src="/script.js"></script>
+</body>
+
+</html>

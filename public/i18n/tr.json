@@ -1,0 +1,39 @@
+{
+  "brand": "Skylab AI",
+  "nav": {
+    "features": "Özellikler",
+    "access": "Erişim al",
+    "waitlist": "Bekleme listesine katıl"
+  },
+  "hero": {
+    "title_pre": "Daha hızlı geliştirin",
+    "title_span": "AI yardımcı pilotunuzla",
+    "subtitle": "Fikirleri kullanıma hazır koda dönüştürüyoruz. Zahmetsiz kurulum, maksimum hız.",
+    "cta_primary": "Bekleme listesine katıl",
+    "cta_secondary": "Özellikleri gör"
+  },
+  "features": {
+    "instant_title": "Anında İskelet",
+    "instant_desc": "En iyi uygulamalarla projeleri hızla başlatın. Görüşler isteğe bağlı.",
+    "code_title": "Sahip Olabileceğiniz Kod",
+    "code_desc": "Okunabilir, tipli ve sürdürülebilir. Çıktıya siz sahipsiniz.",
+    "preview_title": "Canlı Önizleme",
+    "preview_desc": "Yeniden yükleme olmadan, akıcı animasyonlarla anlık yineleme."
+  },
+  "cta": {
+    "title": "Daha hızlı hareket etmeye hazır mısınız?",
+    "subtitle": "Skylab AI'ı ilk deneyenlerden olun. Spam yok, sadece erken erişim.",
+    "button": "Bekleme listesine katıl"
+  },
+  "waitlist": {
+    "placeholder": "siz@sirket.com",
+    "button": "Beni haberdar et",
+    "disclaimer": "E-postanızı yalnızca lansmanımızı bildirmek için kullanacağız."
+  },
+  "footer": {
+    "privacy": "Gizlilik",
+    "terms": "Şartlar"
+  }
+}
+
+

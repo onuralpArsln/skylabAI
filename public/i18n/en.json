@@ -1,0 +1,39 @@
+{
+  "brand": "Skylab AI",
+  "nav": {
+    "features": "Features",
+    "access": "Get access",
+    "waitlist": "Join waitlist"
+  },
+  "hero": {
+    "title_pre": "Build faster with",
+    "title_span": "your AI copilot",
+    "subtitle": "We turn ideas into shippable code with delightful UX. Minimal setup, maximum speed.",
+    "cta_primary": "Join the waitlist",
+    "cta_secondary": "See features"
+  },
+  "features": {
+    "instant_title": "Instant Scaffolds",
+    "instant_desc": "Spin up apps with best practices, opinions optional. Batteries included.",
+    "code_title": "Code You Can Keep",
+    "code_desc": "Readable, typed, and maintainable. You own the output.",
+    "preview_title": "Live Preview",
+    "preview_desc": "Iterate in real-time with smooth, zero-reload animations."
+  },
+  "cta": {
+    "title": "Ready to move faster?",
+    "subtitle": "Be the first to try Skylab AI. No spam, just early access.",
+    "button": "Join the waitlist"
+  },
+  "waitlist": {
+    "placeholder": "you@company.com",
+    "button": "Notify me",
+    "disclaimer": "We’ll only use your email to let you know when we launch."
+  },
+  "footer": {
+    "privacy": "Privacy",
+    "terms": "Terms"
+  }
+}
+
+
