@@ -1,34 +1,34 @@
 {
   "brand": "Skylab AI",
   "nav": {
-    "features": "Özellikler",
-    "access": "Erişim al",
-    "waitlist": "Bekleme listesine katıl"
+    "features": "Hizmetler",
+    "access": "Bizimle çalışın",
+    "waitlist": "Danışmanlık alın"
   },
   "hero": {
-    "title_pre": "Daha hızlı geliştirin",
-    "title_span": "AI yardımcı pilotunuzla",
-    "subtitle": "Fikirleri kullanıma hazır koda dönüştürüyoruz. Zahmetsiz kurulum, maksimum hız.",
-    "cta_primary": "Bekleme listesine katıl",
-    "cta_secondary": "Özellikleri gör"
+    "title_pre": "AI projelerinizi hayata geçirin",
+    "title_span": "güvenilir AI danışmanlarıyla",
+    "subtitle": "Stratejiden veriye, modellerden MLOps ve canlı ortama kadar danışmanlık, tasarım ve geliştirme sunuyoruz.",
+    "cta_primary": "Danışmanlık alın",
+    "cta_secondary": "Hizmetleri keşfedin"
   },
   "features": {
-    "instant_title": "Anında İskelet",
-    "instant_desc": "En iyi uygulamalarla projeleri hızla başlatın. Görüşler isteğe bağlı.",
-    "code_title": "Sahip Olabileceğiniz Kod",
-    "code_desc": "Okunabilir, tipli ve sürdürülebilir. Çıktıya siz sahipsiniz.",
-    "preview_title": "Canlı Önizleme",
-    "preview_desc": "Yeniden yükleme olmadan, akıcı animasyonlarla anlık yineleme."
+    "instant_title": "AI Strateji ve Yol Haritası",
+    "instant_desc": "Keşiften etkiye: uygun AI kullanım alanlarını belirleyin, işleri sonuç için sıralayın.",
+    "code_title": "Özel Modeller ve İnce Ayar",
+    "code_desc": "Alanınıza özel model iş akışları, geri getirimi ve değerlendirme kurun.",
+    "preview_title": "MLOps ve Canlı Ortam",
+    "preview_desc": "İlk günden güvenilir dağıtım, gözlemlenebilirlik ve koruma katmanları."
   },
   "cta": {
-    "title": "Daha hızlı hareket etmeye hazır mısınız?",
-    "subtitle": "Skylab AI'ı ilk deneyenlerden olun. Spam yok, sadece erken erişim.",
-    "button": "Bekleme listesine katıl"
+    "title": "AI girişiminize başlamak ister misiniz?",
+    "subtitle": "Ücretsiz keşif görüşmesi alın. İhtiyaçlarınızı birlikte netleştirelim ve bir plan sunalım.",
+    "button": "Danışmanlık alın"
   },
   "waitlist": {
     "placeholder": "siz@sirket.com",
-    "button": "Beni haberdar et",
-    "disclaimer": "E-postanızı yalnızca lansmanımızı bildirmek için kullanacağız."
+    "button": "Görüşme talep edin",
+    "disclaimer": "E‑postanızı bırakın, oturum planlamak için sizinle iletişime geçelim."
   },
   "footer": {
     "privacy": "Gizlilik",
